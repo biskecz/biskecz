@@ -2,7 +2,7 @@
 
 About Me
 
-Hi, I'm **Biskecz** 👋
+Hi, I'm **Biskecz** 
 
 I'm a 15-year-old student learning **Python and C++** with a focus on **Quantitative Finance and HFT**.
 
