@@ -1,5 +1,4 @@
-<img width="1024" height="576" alt="pick" src="https://github.com/user-attachments/assets/850520a2-dbe1-48b4-a219-9d272c2d34f9" />
-
+<img width="736" height="414" alt="ava" src="https://github.com/user-attachments/assets/3536ce07-f257-4967-b3cd-8583cad3e552" />
 
 About Me
 
