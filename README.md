@@ -1,4 +1,4 @@
-<img width="736" height="414" alt="ava" src="https://github.com/user-attachments/assets/3536ce07-f257-4967-b3cd-8583cad3e552" />
+<img width="1200" height="400" alt="baner" src="https://github.com/user-attachments/assets/dba36650-57d1-426d-898d-dea11ec1a710" />
 
 About Me
 
