@@ -1,9 +1,15 @@
-<img width="1200" height="400" alt="baner" src="https://github.com/user-attachments/assets/dba36650-57d1-426d-898d-dea11ec1a710" />
+# 💫 About Me:
+About Me<br><br>I'm Biskecz, a 15-year-old student and beginner developer interested in **Quantitative Finance and HFT**.<br><br>I started coding in the summer of 2026. Currently, I'm learning **Python and C++** and exploring Quant Engineering, HFT Engineering, algorithms, and market microstructure.<br><br>My current project is a **High-Frequency Trading Order Book** built from scratch in Python.
 
-About Me
 
-Hi, I'm **Biskecz** 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=biskecz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=biskecz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=biskecz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a 15-year-old student learning **Python and C++** with a focus on **Quantitative Finance and HFT**.
+---
+[![](https://komarev.com/ghpvc/?username=biskecz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm building projects from scratch to understand how trading systems, algorithms and financial markets work.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
