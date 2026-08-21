@@ -1,3 +1,6 @@
+<img width="1024" height="576" alt="pick" src="https://github.com/user-attachments/assets/e5c7acfa-c290-41a5-8414-1a7c9c2aeb34" />
+
+
 # 💫 About Me:
 About Me<br><br>I'm Biskecz, a 15-year-old student and beginner developer interested in **Quantitative Finance and HFT**.<br><br>I started coding in the summer of 2026. Currently, I'm learning **Python and C++** and exploring Quant Engineering, HFT Engineering, algorithms, and market microstructure.<br><br>My current project is a **High-Frequency Trading Order Book** built from scratch in Python.
 
