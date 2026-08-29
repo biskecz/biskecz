@@ -1,4 +1,4 @@
-<img width="1200" height="675" alt="ввввввв" src="https://github.com/user-attachments/assets/db426dbf-fd31-4def-a0e2-2027cebf95e5" />
+<img width="1402" height="1122" alt="github_baner" src="https://github.com/user-attachments/assets/0ca6c4d3-7c72-41f3-a922-d697772b9bb8" />
 # 💫 About Me:
 ## <br><br>I'm Biskecz, a 15-year-old student and beginner developer interested in **Quantitative Finance and HFT**.<br><br>I started coding in the summer of 2026. Currently, I'm learning **Python and C++** and exploring Quant Engineering, HFT Engineering, algorithms, and market microstructure. Now i learning about pandas for python and coding SMA backtester on Python
 
