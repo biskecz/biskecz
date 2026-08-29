@@ -1,12 +1,47 @@
-<img width="1402" height="1122" alt="github_baner" src="https://github.com/user-attachments/assets/0ca6c4d3-7c72-41f3-a922-d697772b9bb8" />
-# 💫 About Me:
-## <br><br>I'm Biskecz, a 15-year-old student and beginner developer interested in **Quantitative Finance and HFT**.<br><br>I started coding in the summer of 2026. Currently, I'm learning **Python and C++** and exploring Quant Engineering, HFT Engineering, algorithms, and market microstructure. Now i learning about pandas for python and coding SMA backtester on Python
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=biskecz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=biskecz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=biskecz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Баннер -->
+<img src="https://github.com/user-attachments/assets/0ca6c4d3-7c72-41f3-a922-d697772b9bb8" alt="Header Banner" width="100%" />
+
+</div>
+
+### about
+
+15-year-old student & beginner developer focused on **quantitative finance** and **high-frequency trading (hft)**. building quant engineering tools, market microstructure models, and algorithmic backtesters.
 
 ---
-[![](https://komarev.com/ghpvc/?username=biskecz&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### core skills
+
+<!-- Плашки технологий -->
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+* **languages:** python 
+* **quant & data:** pandas · market microstructure · order book dynamics · backtesting
+* **current focus:** developing an SMA backtester in Python & learning C++ memory management for HFT systems
+
+---
+
+### github stats
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=biskecz&theme=dark&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=biskecz&theme=dark&hide_border=true&layout=compact" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=biskecz&theme=dark&hide_border=true" width="48%" />
+</p>
+
+---
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=biskecz&color=000000&style=flat-square" alt="Views" />
+</div>
