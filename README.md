@@ -23,7 +23,7 @@
 </p>
 
 * **languages:** python 
-* **quant & data:** pandas · market microstructure · order book dynamics · backtesting
+* **quant & data:** pandas ·yfinance · market microstructure · order book dynamics · backtesting 
 * **current focus:** developing an SMA backtester in Python & learning C++ memory management for HFT systems
 
 ---
