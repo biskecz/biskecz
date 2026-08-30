@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- Баннер -->
+
 <img src="https://github.com/user-attachments/assets/0ca6c4d3-7c72-41f3-a922-d697772b9bb8" alt="Header Banner" width="100%" />
 
 </div>
 
 ### about
 
-15-year-old student & beginner developer focused on **quantitative finance** and **high-frequency trading (hft)**. building quant engineering tools, market microstructure models, and algorithmic backtesters.
+15-year-old student & beginner developer focused on **quantitative finance** and **high-frequency trading (hft)**. building quant engineering tools, market microstructure models, and algorithmic backtesters
 
 ---
 
 ### core skills
 
-<!-- Плашки технологий -->
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
