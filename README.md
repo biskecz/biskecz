@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-* **languages:** python 
+* **languages:** python · C++
 * **quant & data:** pandas ·yfinance · market microstructure · order book dynamics · backtesting 
 * **current focus:** developing an SMA backtester in Python & learning C++ memory management for HFT systems
 
