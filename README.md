@@ -26,7 +26,7 @@ Building practical projects around **market data, trading strategies, backtestin
 * **data & quant:** pandas · NumPy · yfinance · financial time series · backtesting · performance analysis
 * **trading:** technical indicators · SMA strategies · transaction costs · risk metrics
 * **tools:** Git · GitHub · Linux
-* **current focus:** building quantitative Python projects, learning C++ fundamentals for high-performance trading systems, and starting to learn HTML & CSS for web development
+* **current focus:** building quantitative Python projects, learning C++ fundamentals for high-performance trading systems, and starting to learn HTML & CSS for web development (now only for school)
 
 ---
 
