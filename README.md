@@ -12,6 +12,11 @@ Building practical projects around **market data, trading strategies, backtestin
 
 ---
 
+### my social media
+Youtube: https://www.youtube.com/@biskeczzz
+
+---
+
 ### core skills
 
 <p>
