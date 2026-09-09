@@ -130,14 +130,8 @@ I'm currently focusing on:
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biskecz&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" height="170"/>
+<p>
   <img src="https://streak-stats.demolab.com/?user=biskecz&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biskecz&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="170"/>
 </p>
 
 ---
@@ -153,9 +147,6 @@ I'm currently focusing on:
 ## Connect
 
 YouTube: https://www.youtube.com/@biskeczzz
+
 TikTok: https://www.tiktok.com/@biskeychz
 ---
-
-<p align="center">
-  <sub>Building projects, learning markets, and improving every day.</sub>
-</p>
