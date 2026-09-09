@@ -1,73 +1,149 @@
-<div align="center">
+# Hi, I'm biskecz
 
-<img src="https://github.com/user-attachments/assets/0ca6c4d3-7c72-41f3-a922-d697772b9bb8" alt="Header Banner" width="100%" />
+### Aspiring Quant Developer · Python · C++ · Web Development
 
-</div>
+I'm a student focused on **quantitative finance, software development, and web development**.
 
-### about
+I build practical projects to improve my programming skills and explore different areas of software engineering — from financial data analysis and algorithmic trading to building websites with HTML and CSS.
 
-15-year-old student & aspiring **quant developer** focused on Python, quantitative finance, and algorithmic trading.
+Currently, I'm focusing on:
 
-Building practical projects around **market data, trading strategies, backtesting, and performance analysis** while learning the fundamentals behind quantitative and HFT systems.
-
----
-
-### my social media
-Youtube: https://www.youtube.com/@biskeczzz
-
----
-
-### core skills
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-* **languages:** Python · C++
-* **data & quant:** pandas · NumPy · yfinance · financial time series · backtesting · performance analysis
-* **trading:** technical indicators · SMA strategies · transaction costs · risk metrics
-* **tools:** Git · GitHub · Linux
-* **current focus:** building quantitative Python projects, learning C++ fundamentals for high-performance trading systems, and starting to learn HTML & CSS for web development (now only for school)
+* quantitative market data analysis
+* algorithmic trading & backtesting
+* Python for quantitative development
+* C++ fundamentals
+* statistics & financial time series
+* web development with HTML & CSS
+* building clean and responsive websites
+* writing cleaner and more modular code
 
 ---
 
-### featured project
+## Featured Projects
 
-**SMA Backtester**
+### Quant Market Data Analytics
 
-A modular Python backtesting system for evaluating moving-average crossover strategies on historical market data.
+Python-based toolkit for analyzing historical financial time series.
+
+**Focus:**
+
+* market data processing
+* returns & volatility
+* rolling statistics
+* drawdowns
+* correlations
+* anomaly detection
+* financial data visualization
+
+**Stack:** `Python` `pandas` `NumPy` `Matplotlib` `yfinance`
+
+---
+
+### SMA Backtester
+
+A modular Python backtesting framework for testing moving-average crossover strategies on historical AAPL data.
 
 **Features:**
 
-* configurable fast/slow SMA periods
-* BUY / SELL signal generation
+* configurable SMA periods
+* BUY / SELL signals
 * transaction costs
-* CAGR and performance metrics
-* maximum drawdown analysis
-* Sharpe ratio
+* Total Return
+* CAGR
+* Maximum Drawdown
+* Sharpe Ratio
+* Win Rate
+* Profit Factor
 * trade statistics
 * strategy vs. Buy & Hold comparison
-* performance and drawdown charts
+* performance & drawdown charts
+
+The backtester also uses previous-day signals to avoid **look-ahead bias**.
+
+**Stack:** `Python` `pandas` `NumPy` `Matplotlib` `yfinance`
 
 ---
 
-### github stats
+### Portfolio Website
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=biskecz&theme=dark&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=biskecz&theme=dark&hide_border=true&layout=compact" width="48%" />
-</p>
+Personal website built while learning the fundamentals of web development.
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=biskecz&theme=dark&hide_border=true" width="48%" />
-</p>
+**Focus:**
+
+* semantic HTML
+* CSS fundamentals
+* responsive layouts
+* page structure
+* typography
+* visual design
+
+**Stack:** `HTML` `CSS`
 
 ---
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=biskecz&color=000000&style=flat-square" alt="Views" />
-</div>
+## Skills
+
+### Programming
+
+`Python` · `C++`
+
+### Quant & Data
+
+`pandas` · `NumPy` · `yfinance` · `Matplotlib`
+
+Financial Time Series · Backtesting · Statistical Analysis · Risk Metrics
+
+### Web Development
+
+`HTML` · `CSS`
+
+Semantic HTML · Responsive Design · CSS Layouts · Flexbox · Grid
+
+### Trading
+
+SMA Strategies · Technical Indicators · Transaction Costs
+
+CAGR · Sharpe Ratio · Maximum Drawdown · Performance Analysis
+
+### Tools
+
+`Git` · `GitHub` · `Linux`
+
+---
+
+## Current Focus
+
+I'm currently developing my skills across **quantitative finance, programming, and web development**.
+
+My main areas of focus are:
+
+* quantitative finance and algorithmic trading
+* market data analysis
+* backtesting and strategy evaluation
+* Python development
+* C++ fundamentals
+* HTML & CSS
+* responsive web design
+* software engineering fundamentals
+
+My goal is to build strong programming fundamentals while gradually working on more complex and practical projects.
+
+---
+
+## Projects
+
+| Project                                                                               | Description                                    | Tech     |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------- | -------- |
+| [Quant Market Data Analytics](https://github.com/biskecz/quant-market-data-analytics) | Historical market data & quantitative analysis | Python   |
+| [SMA Backtester](https://github.com/biskecz/Sma-backtester)                           | Moving-average strategy backtesting            | Python   |
+| [Portfolio Website](https://github.com/biskecz/portfolio-website)                     | Personal portfolio website                     | HTML/CSS |
+
+---
+
+## Connect
+
+YouTube: [@biskeczzz](https://www.youtube.com/@biskeczzz)
+
+---
+
+> Building projects, learning finance, and improving my programming skills one project at a time.
