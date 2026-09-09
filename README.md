@@ -8,14 +8,14 @@ I build practical projects to improve my programming skills and explore differen
 
 Currently, I'm focusing on:
 
-* quantitative market data analysis
-* algorithmic trading & backtesting
-* Python for quantitative development
-* C++ fundamentals
-* statistics & financial time series
-* web development with HTML & CSS
-* building clean and responsive websites
-* writing cleaner and more modular code
+- quantitative market data analysis
+- algorithmic trading & backtesting
+- Python for quantitative development
+- C++ fundamentals
+- statistics & financial time series
+- web development with HTML & CSS
+- building clean and responsive websites
+- writing cleaner and more modular code
 
 ---
 
@@ -26,14 +26,13 @@ Currently, I'm focusing on:
 Python-based toolkit for analyzing historical financial time series.
 
 **Focus:**
-
-* market data processing
-* returns & volatility
-* rolling statistics
-* drawdowns
-* correlations
-* anomaly detection
-* financial data visualization
+- market data processing
+- returns & volatility
+- rolling statistics
+- drawdowns
+- correlations
+- anomaly detection
+- financial data visualization
 
 **Stack:** `Python` `pandas` `NumPy` `Matplotlib` `yfinance`
 
@@ -44,19 +43,18 @@ Python-based toolkit for analyzing historical financial time series.
 A modular Python backtesting framework for testing moving-average crossover strategies on historical AAPL data.
 
 **Features:**
-
-* configurable SMA periods
-* BUY / SELL signals
-* transaction costs
-* Total Return
-* CAGR
-* Maximum Drawdown
-* Sharpe Ratio
-* Win Rate
-* Profit Factor
-* trade statistics
-* strategy vs. Buy & Hold comparison
-* performance & drawdown charts
+- configurable SMA periods
+- BUY / SELL signals
+- transaction costs
+- Total Return
+- CAGR
+- Maximum Drawdown
+- Sharpe Ratio
+- Win Rate
+- Profit Factor
+- trade statistics
+- strategy vs. Buy & Hold comparison
+- performance & drawdown charts
 
 The backtester also uses previous-day signals to avoid **look-ahead bias**.
 
@@ -69,13 +67,12 @@ The backtester also uses previous-day signals to avoid **look-ahead bias**.
 Personal website built while learning the fundamentals of web development.
 
 **Focus:**
-
-* semantic HTML
-* CSS fundamentals
-* responsive layouts
-* page structure
-* typography
-* visual design
+- semantic HTML
+- CSS fundamentals
+- responsive layouts
+- page structure
+- typography
+- visual design
 
 **Stack:** `HTML` `CSS`
 
@@ -84,29 +81,24 @@ Personal website built while learning the fundamentals of web development.
 ## Skills
 
 ### Programming
-
 `Python` · `C++`
 
 ### Quant & Data
-
 `pandas` · `NumPy` · `yfinance` · `Matplotlib`
 
 Financial Time Series · Backtesting · Statistical Analysis · Risk Metrics
 
 ### Web Development
-
 `HTML` · `CSS`
 
 Semantic HTML · Responsive Design · CSS Layouts · Flexbox · Grid
 
 ### Trading
-
 SMA Strategies · Technical Indicators · Transaction Costs
 
 CAGR · Sharpe Ratio · Maximum Drawdown · Performance Analysis
 
 ### Tools
-
 `Git` · `GitHub` · `Linux`
 
 ---
@@ -117,14 +109,14 @@ I'm currently developing my skills across **quantitative finance, programming, a
 
 My main areas of focus are:
 
-* quantitative finance and algorithmic trading
-* market data analysis
-* backtesting and strategy evaluation
-* Python development
-* C++ fundamentals
-* HTML & CSS
-* responsive web design
-* software engineering fundamentals
+- quantitative finance and algorithmic trading
+- market data analysis
+- backtesting and strategy evaluation
+- Python development
+- C++ fundamentals
+- HTML & CSS
+- responsive web design
+- software engineering fundamentals
 
 My goal is to build strong programming fundamentals while gradually working on more complex and practical projects.
 
@@ -132,11 +124,32 @@ My goal is to build strong programming fundamentals while gradually working on m
 
 ## Projects
 
-| Project                                                                               | Description                                    | Tech     |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------- | -------- |
-| [Quant Market Data Analytics](https://github.com/biskecz/quant-market-data-analytics) | Historical market data & quantitative analysis | Python   |
-| [SMA Backtester](https://github.com/biskecz/Sma-backtester)                           | Moving-average strategy backtesting            | Python   |
-| [Portfolio Website](https://github.com/biskecz/portfolio-website)                     | Personal portfolio website                     | HTML/CSS |
+| Project | Description | Tech |
+|---|---|---|
+| [Quant Market Data Analytics](https://github.com/biskecz/quant-market-data-analytics) | Historical market data & quantitative analysis | Python |
+| [SMA Backtester](https://github.com/biskecz/Sma-backtester) | Moving-average strategy backtesting | Python |
+| [Portfolio Website](https://github.com/biskecz/portfolio-website) | Personal portfolio website | HTML/CSS |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biskecz&show_icons=true&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biskecz&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biskecz&layout=compact&langs_count=8&hide_border=true" height="170"/>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biskecz&hide_border=true" width="100%"/>
+</p>
 
 ---
 
