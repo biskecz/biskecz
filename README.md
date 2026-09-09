@@ -152,8 +152,8 @@ I'm currently focusing on:
 
 ## Connect
 
-[YouTube](https://www.youtube.com/@biskeczzz)
-
+YouTube: https://www.youtube.com/@biskeczzz
+TikTok: https://www.tiktok.com/@biskeychz
 ---
 
 <p align="center">
