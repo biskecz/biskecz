@@ -136,17 +136,10 @@ I'm currently focusing on:
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biskecz&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
 ## Connect
 
 YouTube: https://www.youtube.com/@biskeczzz
 
 TikTok: https://www.tiktok.com/@biskeychz
+
 ---
