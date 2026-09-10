@@ -29,41 +29,6 @@ I'm currently building a stronger foundation in programming while exploring both
 
 ---
 
-## Featured Projects
-
-### Quant Market Data Analytics
-
-A Python toolkit for analyzing historical financial market data.
-
-**Focus**
-
-`Market Data` · `Returns` · `Volatility` · `Drawdowns` · `Correlations` · `Statistics`
-
-**Tech**
-
-`Python` `pandas` `NumPy` `Matplotlib` `yfinance`
-
----
-
-### SMA Backtester
-
-A modular backtesting framework for evaluating moving-average crossover strategies.
-
-**Features**
-
-* SMA strategy signals
-* Transaction costs
-* Total Return
-* CAGR
-* Sharpe Ratio
-* Maximum Drawdown
-* Win Rate
-* Profit Factor
-* Trade statistics
-* Strategy vs Buy & Hold
-* Performance visualization
-* Look-ahead bias prevention
-
 **Tech**
 
 `Python` `pandas` `NumPy` `Matplotlib` `yfinance`
