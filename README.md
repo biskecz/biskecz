@@ -1,4 +1,5 @@
-# biskecz
+<img width="2172" height="724" alt="ChatGPT Image 10 сент  2026 г , 07_57_49" src="https://github.com/user-attachments/assets/4a0fad60-8eb7-4f26-8321-cf1f923abea2" />
+
 
 ### Quantitative Finance · Software Development · Web Development
 
