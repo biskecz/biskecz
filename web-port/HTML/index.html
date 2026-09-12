@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Portfolio | biskecz</title>
+
+    <link rel="stylesheet" href="../CSS/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+        rel="stylesheet"
+    >
+</head>
+
+<body>
+
+    <div class="main-container">
+
+        <div class="nav-bar">
+
+            <h1 class="web-name">
+                Portfolio Website
+            </h1>
+
+            <nav class="nav-f-btn">
+                <a href="#">Main</a>
+                <a href="#">Social Media</a>
+                <a href="#">Projects</a>
+                <a href="#">Contacts</a>
+            </nav>
+
+        </div>
+
+        <main class="content-window">
+
+            <div class="content-buttons">
+                <button class="active-btn" onclick="showPage('about-container')">
+                    Main
+                </button>
+
+                <button onclick="showPage('comments-container')">
+                    Comments
+                </button>
+            </div>
+
+            <div id="about-container" class="inner-page active">
+                <div class="profile-header">
+                    <div class="avatar-container">
+                        <img src="../images/me.jpg" alt="biskecz avatar" class="avatar-img">
+                    </div>
+
+                    <div class="profile-info">
+                        <h2>yo, I'm Yehor Vasyliev</h2>
+                        <p>Status: beginer dev | student | 2011</p>
+                        <p>Pseudo: biskecz</p>
+                    </div>
+                </div>
+
+                <hr style="margin: 30px 0; border: 1px dashed #023b9e;">
+
+                <p>
+                    I’m interested in the intersection of finance and software development, especially Quant Development, HFT, and low-latency systems. I enjoy building things, solving complex problems, and learning how systems work under the hood. Currently, I’m focused on Python for finance while learning C++. I’m always looking for new challenges.
+                </p>
+                
+                <p>
+                    <br> Currently focused on Python for financial applications and learning C++.
+                </p>
+
+                <p>
+                    <i>
+                        <br> "If you're the smartest person in the room, you're in the wrong room."
+                    </i>
+                </p>
+
+                <br>
+                <p><strong>Location:</strong> Poland, Poznan</p>
+
+                <p>
+                    Current Time: [ <span id="clock">00:00:00</span> ]
+                </p>
+
+            </div>
+
+            <div id="comments-container" class="inner-page">
+                <h2>Comments</h2>
+
+                <div class="coment-container">
+                    <div class="coment-header">
+                        <div class="avatar-coment">
+                            <img src="../images/pickj.jpg" alt="User Avatar">
+                        </div>
+                        <div class="coment-user-info">
+                            <span class="coment-author">Cool_User2007</span>
+                            <span class="coment-date">12.09.2026, 22:15</span>
+                        </div>
+                    </div>
+
+                    <div class="coment-body">
+                        <p>OMGGG THIS GUY IS REALLY COOL!!! &gt; 3&lt; </p>
+                    </div>
+                </div>
+
+                <div class="coment-container">
+                    <div class="coment-header">
+                        <div class="avatar-coment">
+                            <img src="../images/pickj2.jpg" alt="User Avatar">
+                        </div>
+                        <div class="coment-user-info">
+                            <span class="coment-author">Down_Town333</span>
+                            <span class="coment-date">12.09.2026, 22:30</span>
+                        </div>
+                    </div>
+
+                    <div class="coment-body">
+                        <p>Awesome website style! Good luck with C++ and Quant Dev!</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </main>
+
+    </div>
+
+    <script>
+        function showPage(pageId) {
+            const pages = document.querySelectorAll(".inner-page");
+            pages.forEach(page => {
+                page.classList.remove("active");
+            });
+
+            const targetPage = document.getElementById(pageId);
+            if (targetPage) {
+                targetPage.classList.add("active");
+            }
+
+            const buttons = document.querySelectorAll(".content-buttons button");
+            buttons.forEach(btn => {
+                if (btn.getAttribute("onclick") && btn.getAttribute("onclick").includes(pageId)) {
+                    btn.classList.add("active-btn");
+                } else {
+                    btn.classList.remove("active-btn");
+                }
+            });
+        }
+    </script>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+
+            const hours = String(now.getHours()).padStart(2, "0");
+            const minutes = String(now.getMinutes()).padStart(2, "0");
+            const seconds = String(now.getSeconds()).padStart(2, "0");
+
+            document.getElementById("clock").textContent =
+                `${hours}:${minutes}:${seconds}`;
+        }
+
+        updateClock();
+        setInterval(updateClock, 1000);
+    </script>
+
+</body>
+
+</html>
