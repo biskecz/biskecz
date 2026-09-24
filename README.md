@@ -90,7 +90,6 @@ I'm currently focusing on:
 
 | Project                                                                               | Description                    | Technology |
 | ------------------------------------------------------------------------------------- | ------------------------------ | ---------- |
-| [Quant Market Data Analytics](https://github.com/biskecz/quant-market-data-analytics) | Financial market data analysis | Python     |
 | [SMA Backtester](https://github.com/biskecz/Sma-backtester)                           | Trading strategy backtesting   | Python     |
 | [Portfolio Website](https://github.com/biskecz/portfolio-website)                     | Personal website               | HTML / CSS |
 
